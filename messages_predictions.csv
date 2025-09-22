@@ -1,0 +1,11 @@
+id,message,prediction,P_ham,P_spam
+1,"how are you .fine, thank you and you?",ham,0.9935948101417039,0.006405189858295947
+2,"Good News, You've won a big prize, please call 00861888888888 for more information",spam,0.004978989601163774,0.9950210103988363
+3,are you ok,ham,0.8658290329818262,0.1341709670181737
+4,not at all,ham,0.8658290329818262,0.1341709670181737
+5,"WINNER, You have won a 1 week FREE membership in our £100,000 Prize Jackpot!",spam,4.740178644312097e-09,0.9999999952598213
+6,winner winner chicken dinner,spam,0.23510268976691984,0.7648973102330802
+7,Congratulations on your invitation to join Honor Society!,spam,0.05293276717702864,0.9470672328229713
+8,I love you guys.,ham,0.9959454097886798,0.004054590211320127
+9,"Extra large discount, three bamboo rats and three 10 yuan",spam,0.08949608585227949,0.9105039141477205
+10,good good study day day up,ham,0.9987550025110496,0.0012449974889502983
